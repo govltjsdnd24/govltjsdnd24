@@ -2,6 +2,7 @@
 <a href="https://govltjsdnd24.github.io"><img src="https://img.shields.io/badge/Tech_Blog-green?style=for-the-badge&logo=GithubPages&logoColor=222222&link=https://govltjsdnd24.github.io"/></a>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=govltjsdnd24&show_icons=true&theme=radical)
 <!--
 **govltjsdnd24/govltjsdnd24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
