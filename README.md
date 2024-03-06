@@ -1,5 +1,5 @@
 ### Hi to everyone who sees this 👋
-<a href="https://www.instagram.com/hongssup/“><img src="https://img.shields.io/badge/Tech_Blog-green?style=for-the-badge&logo=GithubPages&logoColor=222222&link=https://govltjsdnd24.github.io"/></a>
+<a href="https://govltjsdnd24.github.io"><img src="https://img.shields.io/badge/Tech_Blog-green?style=for-the-badge&logo=GithubPages&logoColor=222222&link=https://govltjsdnd24.github.io"/></a>
 
 
 <!--
