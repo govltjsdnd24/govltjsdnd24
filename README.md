@@ -1,4 +1,6 @@
 ### Hi there 👋
+<a href="https://govltjsdnd24.github.io/" target="_blank">Blog<img src="https://img.shields.io/badge/00000?style=plastic&logo=notion&logoColor=0A66C2"/></a>
+
 
 <!--
 **govltjsdnd24/govltjsdnd24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
